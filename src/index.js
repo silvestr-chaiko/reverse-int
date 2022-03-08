@@ -1,6 +1,5 @@
 module.exports = function reverse (n) {
     
-    
     let i = 0;
     let result = '';
     
@@ -11,6 +10,7 @@ module.exports = function reverse (n) {
     
     }
       
-    return result;   
+  return result; 
   
 }
+
