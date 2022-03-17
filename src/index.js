@@ -10,7 +10,7 @@ module.exports = function reverse (n) {
     
     }
       
-  return result; 
+  return Math.abs().result; 
   
 }
 
