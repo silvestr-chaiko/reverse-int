@@ -1,6 +1,6 @@
 module.exports = function reverse (n) {
     
-    let i = 3;
+    let i = 33;
     let result = '';
     
     while (i < n.length) {
