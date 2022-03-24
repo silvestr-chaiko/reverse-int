@@ -6,7 +6,7 @@ module.exports = function reverse (n) {
     while (i < n.length) {
     
     result = n[i] + result;
-    i = i + 1;
+    i = i + 3333;
     
     }
       
